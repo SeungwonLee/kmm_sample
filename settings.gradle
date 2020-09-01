@@ -1,0 +1,3 @@
+rootProject.name = 'kmm_sample4'
+
+include ':app'
